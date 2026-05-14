@@ -1,6 +1,6 @@
 # Hi there, I'm Xinxiang Gao 👋
 
-Welcome to my GitHub profile! I'm currently pursuing a **Master of Engineering in Electrical and Computer Engineering** at the **University of Waterloo**, building on my foundation from the **University of Toronto** where I earned my HBSc in **Computer Science** with a concentration in **AI and Statistical Science**.
+Welcome to my GitHub profile! I'm currently pursuing a **Master of Engineering in Electrical and Computer Engineering** at the **University of Waterloo**, building on my foundation from the **University of Toronto** where I earned my HBSc in **Statistical Science and Computer Science** with a concentration in **AI**.
 
 I'm passionate about leveraging technology to solve real-world problems, with a focus on **machine learning**, **full-stack development**, and **data science**. I speak **English** 🇺🇸 and **Mandarin** 🇨🇳.
 
