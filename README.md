@@ -24,9 +24,6 @@ NumPy · Pandas · Ultralytics (YOLOv8-OBB) · XGBoost · Random Forest · GMM �
 
 RAG · ReAct · Prompt Engineering · Text2SQL · Whisper · BERT / Transformers · MPNET · FastText · Gensim · ElevenLabs TTS · Ollama · Dify · Fine-tuning · Federated Learning
 
-### 📡 Signal Processing & Neural Compression
-INR / SIREN · KAN-SQUAF · Coded Deep Learning (CDL) · Quantization-Aware Training (QAT) · Straight-Through Estimator · Rate-Distortion Optimization · Shannon Entropy Minimization · PSNR / BPP
-
 ### 💻 Full-Stack & Mobile
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
